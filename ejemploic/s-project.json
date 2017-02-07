@@ -1,0 +1,5 @@
+{
+  "name": "ejemploic",
+  "custom": {},
+  "plugins": ["serverless-serve"]
+}
